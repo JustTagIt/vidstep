@@ -9,7 +9,7 @@ If you have a feature suggestion, a bug you found, or just a small pain-point in
 ## Changelog
 
 ### Version 1.1.0 - Jun 22, 2017
-- Fixed issue
+- Fixed several minor issues (bugs and feature requests).
 - Added ability to control playback speed (from 0.1x to 10.0x)
 - Added Disqus commenting for easier and more public ability to talk through features requests and bugs.
 
